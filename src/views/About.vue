@@ -4,3 +4,9 @@
     <p>About!</p>
   </div>
 </template>
+
+<style scoped>
+p {
+  color: blueviolet;
+}
+</style>
